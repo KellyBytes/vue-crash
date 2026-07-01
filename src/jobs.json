@@ -85,20 +85,6 @@
       }
     },
     {
-      "type": "Full-Time",
-      "title": "Jael Castro",
-      "description": "Et et distinctio Su",
-      "salary": "$90K - $100K",
-      "location": "Distinctio Lorem in",
-      "company": {
-        "name": "Glover and Ball LLC",
-        "description": "Non veniam sit reru",
-        "contactEmail": "faduwilegi@mailinator.com",
-        "contactPhone": "+1 (323) 738-2619"
-      },
-      "id": "_fdYUgolegU"
-    },
-    {
       "type": "Remote",
       "title": "Vue Dev I",
       "description": "Et eos quis qui aut ",
